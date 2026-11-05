@@ -19,8 +19,7 @@ Specialization in Artificial Intelligence and Machine Learning
 ## Find Me Online
 For questions, suggestions, or feedback, feel free to connect with me.
 
-* **Portfolio:** [My Webspace](https://theatif.netlify.app/)
-* 
+* **Portfolio:** [Webspace](https://theatif.netlify.app/)
 * **GitHub:** [Atif Khan](https://github.com/theatiff/)
 
 ## Disclaimer
