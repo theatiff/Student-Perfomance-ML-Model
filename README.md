@@ -21,7 +21,7 @@ Specialization in Artificial Intelligence and Machine Learning
 
 For questions, suggestions, or feedback, feel free to connect with me.
 
-* **Portfolio:** [Explore My Portfolio](theatif.netlify.app)
+* **Portfolio:** [Explore My Portfolio](https://theatif.netlify.app/)
 * **GitHub:** [Atif Khan](YOUR_GITHUB_LINK)
 
 ## Disclaimer
