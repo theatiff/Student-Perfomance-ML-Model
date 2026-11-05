@@ -7,7 +7,6 @@ See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for details.
 ## Author
 
 **Atif Khan**
-
 Specialization in Artificial Intelligence and Machine Learning
 
 ## Acknowledgements
@@ -18,12 +17,12 @@ Specialization in Artificial Intelligence and Machine Learning
 * The Students Performance dataset used for this project.
 
 ## Find Me Online
-
 For questions, suggestions, or feedback, feel free to connect with me.
 
-* **Portfolio:** [Explore My Portfolio](https://theatif.netlify.app/)
-* **GitHub:** [Atif Khan](YOUR_GITHUB_LINK)
+* **Portfolio:** [My Webspace](https://theatif.netlify.app/)
+* 
+* **GitHub:** [Atif Khan](https://github.com/theatiff/)
 
 ## Disclaimer
 
-This project is developed for educational and learning purposes. The predictions are estimates and should not be treated as guaranteed student results.
+This Model is developed for educational and learning purposes. The predictions are estimates and should not be treated as guaranteed student results.
